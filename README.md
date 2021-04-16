@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-![Ashish's GitHub stats](https://github-readme-stats.vercel.app/api?username=ashish-shm&show_icons=true&theme=dark)
-
-
 
 
 <!--
